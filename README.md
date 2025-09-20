@@ -15,6 +15,10 @@ https://youtu.be/qyd7-ZL4hGo
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="umaralhajibaba | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]@UmarBaba-fx2be<br/>
+[<img align="left" alt="umaralhajibaba| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br/>
+[<img align="left" alt="umaralhajibaba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br/>
+[<img align="left" alt="umaralhajibaba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/>
 [youtube]: https://youtu.be/qyd7-ZL4hGo
 [linkedin]: www.linkedin.com/in/alhababaumar
 
