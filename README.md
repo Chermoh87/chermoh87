@@ -4,6 +4,11 @@
 - <b>The Impact Circle Project</b>
   - https://docs.google.com/presentation/d/1gACksC0jX7gkzme_-BNzA9_a1nnDy77fA5P9EdHZYCo/edit?usp=sharing
 
+<h2>Certifications</h2>
+- Google IT Support Certificate<br/>
+- Green Digital Skills<br/>
+- Cisco Networkin Certificate<br/>
+
 <h2>📺 YouTube Videos</h2>
 https://youtu.be/qyd7-ZL4hGo
 
