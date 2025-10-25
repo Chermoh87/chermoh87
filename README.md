@@ -1,31 +1,72 @@
-<h1>Hi, I'm Umar! <br/><a href="https://github.com/chermoh87">Programmer</a>
+<!-- 🌍✨ PROFESSIONAL GITHUB PROFILE TEMPLATE ✨🌍 -->
 
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b>The Impact Circle Project</b>
-  - https://docs.google.com/presentation/d/1gACksC0jX7gkzme_-BNzA9_a1nnDy77fA5P9EdHZYCo/edit?usp=sharing
+<h1 align="center">Hi there, I'm <span style="color:#00BFA6;">Umar Alhaji Baba</span> 👋</h1>
 
-<h2>Certifications</h2>
-- Google IT Support Certificate<br/>
-- Green Digital Skills<br/>
-- Cisco Networkin Certificate<br/>
+<p align="center">
+  🌱 <b>Front-End Developer | Sustainability Enthusiast | Climate Advocate</b> 🌎<br>
+  <i>Building impactful digital solutions that drive sustainable change.</i>
+</p>
 
-<h2>📺 YouTube Videos</h2>
-https://youtu.be/qyd7-ZL4hGo
+---
 
+### 👨🏽‍💻 About Me
+I am a learner of the **ALX Software Engineering – Front-End Program**, where I’m developing hands-on skills in **HTML, CSS, JavaScript, and responsive design**.  
+I started my software engineering journey because I believe that **technology is one of the most powerful tools to tackle global sustainability challenges**.  
 
-<h2> 🤳 Connect with me:</h2>
+What inspires me is the ability to **turn code into solutions that improve lives and protect our planet** — from climate data visualization to eco-friendly web experiences.  
 
-[<img align="left" alt="umaralhajibaba | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]@UmarBaba-fx2be<br/>
-[<img align="left" alt="umaralhajibaba| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br/>
-[<img align="left" alt="umaralhajibaba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br/>
-[<img align="left" alt="umaralhajibaba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/>
-[youtube]: https://youtu.be/qyd7-ZL4hGo
-[linkedin]: www.linkedin.com/in/alhababaumar
+💡 **My aim is to** create scalable, user-centered digital platforms that promote environmental awareness and sustainable development.  
+That’s why I’d like to work on **projects that bridge technology and sustainability**, such as:
+- 🌍 Green-tech dashboards  
+- 📊 Environmental data visualization apps  
+- 🌿 Climate resilience tools for local communities  
+- 💻 Open-source sustainability initiatives  
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,tailwind" />
+</p>
+
+---
+
+### 🚀 Current Focus
+- 🎓 Completing ALX Front-End Engineering training  
+- 🌿 Learning to integrate sustainability insights into web projects  
+- 🧠 Strengthening JavaScript problem-solving and UI design  
+- 🤝 Collaborating with other developers on open-source projects  
+
+---
+
+### 🌟 Featured Projects
+| Project | Description | Stack |
+|----------|--------------|-------|
+| [EcoTrack](https://github.com/yourusername/EcoTrack) | An interactive platform for tracking and visualizing local climate data. | React, Leaflet.js, API Integration |
+| [GreenBlog](https://github.com/yourusername/GreenBlog) | A personal sustainability-themed blog built from scratch. | HTML, CSS, JS |
+| [ClimateEdu](https://github.com/yourusername/ClimateEdu) | Educational microsite to raise awareness about desertification in Northern Nigeria. | HTML, Tailwind, JS |
+
+---
+
+### 🧭 My Vision
+> “To merge technology and sustainability in creating inclusive, data-driven, and scalable solutions that empower communities and protect the planet.”
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/alhababaumar]/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:itz.chermoh@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/@Chermoh4"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/Chermoh87"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code with purpose. Build for impact.”</i> 🌱
+</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
